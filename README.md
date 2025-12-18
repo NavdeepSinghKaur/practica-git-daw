@@ -9,3 +9,7 @@ Autor: Navdeep Singh - curs 2025
 
 <h3>Contingut</h3>
 <p>Git - PHP</p>
+
+
+<h3>Historial de versions</h3>
+V1.0 i V2.0
