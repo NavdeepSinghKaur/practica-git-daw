@@ -1,7 +1,6 @@
 <?php
 function afegirTasca(&$tasques, $descripcio) {
-
-    count($tasques) + 1;
+    $id = count($tasques) + 1;
     $tasques[$id] = $descripcio;
     return $id;
 }
